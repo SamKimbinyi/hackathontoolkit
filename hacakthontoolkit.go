@@ -1,4 +1,4 @@
-package hack
+package hackathontoolkit
 
 import (
 	"fmt"
