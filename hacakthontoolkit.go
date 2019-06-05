@@ -19,7 +19,7 @@ func usertime(command *bot.Cmd) (msg string, err error) {
 
 func init() {
 	bot.RegisterCommand(
-		"settizzatime",
+		"setpizzatime",
 		"Tells you when the next pizza delivery is comming",
 		"",
 		setpizzatime)
